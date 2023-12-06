@@ -1,0 +1,28 @@
+body{
+    background-image: url(https://i.pinimg.com/736x/d4/8d/bc/d48dbcc0a9cef9cd36fa9205e8556cb6.jpg );
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.contact {
+    background-image: linear-gradient(#000000a9,#83174b);
+    width: 300px;
+    text-align: center;
+    /* margin-top: 200px; */
+    margin: 100px auto 0 auto;
+margin-top: 200px;
+}
+.contact h1{
+    font-weight: bolder;
+    font-style: normal;
+    color: rgb(239, 247, 255);
+}
+.contact input{
+    border-radius: 5px;
+}
+.button{
+    background-color: azure;
+}
+.button :hover{
+    background-color: rgb(104, 228, 32);
+}
